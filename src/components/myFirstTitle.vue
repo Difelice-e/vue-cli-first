@@ -4,10 +4,7 @@
 
 <script>
 export default {
-  name: 'myFirstTitle',
-  props: {
-    msg: String
-  }
+  name: 'myFirstTitle'
 }
 </script>
 
@@ -15,6 +12,5 @@ export default {
 h1 {
     font-size: 2.5rem;
     color: greenyellow;
-    text-decoration: underscore;
 }
 </style>
